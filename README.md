@@ -1,24 +1,22 @@
-## Overview
+## 📌 Overview
 
-This README describes the various steps and commands to preprocess the data, handle files, and run the program with input data.
+This README describes the various steps and commands for preprocessing the data, handling files, and running the program with input data.
 
 📁 [Windows Subsystem for Linux (WSL)](https://ubuntu.com/desktop/wsl)
 
 
-📅 Last Update: December 22, 2024
+📅 December 22, 2024
 
 
 ## 🔌 Data Preprocessing
 
 1. **Download the related TSV data**  
 
-2. **Use LibreOffice Calc to process the data and save the result as a HTML file**  
+2. **Use LibreOffice Calc to process the data and save the result as an HTML file**  
 
-3. **Convert newlines to spaces (Online tool)**  
+3. **Convert newlines to spaces (using an online tool)**  
 
 4. **Save the data as List.txt**  
-
-
 
 
 
