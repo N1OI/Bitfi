@@ -67,7 +67,7 @@ This README describes the various steps and commands for preprocessing the data,
    sed -i '1s/^\xEF\xBB\xBF//' List.txt
    ```
 
-7. **Verifying BOM Removal (Hexadecimal Display)** 
+7. **Verifying BOM Removal** 
 
    ```bash
    hexdump -C List.txt | head
@@ -91,7 +91,7 @@ This README describes the various steps and commands for preprocessing the data,
    xargs ./Bitfi -t 3 < List.txt
    ```
 
-9. **Miscellaneous - Run in the Background/Foreground**
+9. **Miscellaneous**
 
    ```bash
    command
