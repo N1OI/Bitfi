@@ -7,7 +7,11 @@
 This README describes the various steps and commands for preprocessing the data, handling files, and running the program with input data.
 
 📁 [Windows Subsystem for Linux (WSL)](https://ubuntu.com/desktop/wsl)
+
+
 📀 [Ubuntu Server)](https://ubuntu.com/download/server)
+
+
 💻 [tmux Documentation)](https://github.com/tmux/tmux/wiki/Getting-Started)
 
 
