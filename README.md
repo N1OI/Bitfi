@@ -31,7 +31,7 @@ This README describes the various steps and commands for preprocessing the data,
 ## ⚙️ Installation
 
 
-1. **Prerequisites**
+0. **Prerequisites**
 
    ```bash
    sudo apt-get install build-essential automake autoconf libtool libgmp3-dev p7zip-full
@@ -45,43 +45,43 @@ This README describes the various steps and commands for preprocessing the data,
    cd Bitfi
    ```
 
-2. **Unzipping the Password-Protected File**  
+1. **Unzipping the Password-Protected File**  
 
    ```bash
    7z x Bitfi.zip
    ```
 
-3. **Running Make**  
+2. **Running Make**  
 
    ```bash
    make
    ```
 
-4. **Concatenating the File to display its contents)**  
+3. **Concatenating the File to display its contents)**  
 
    ```bash
    cat List.txt | head -c 100
    ```
 
-5. **Displaying the File in Hexadecimal Format**  
+4. **Displaying the File in Hexadecimal Format**  
 
    ```bash
    hexdump -C List.txt | head
    ```
 
-6. **Removing Byte Order Mark (BOM) from the File**  
+5. **Removing Byte Order Mark (BOM) from the File**  
 
    ```bash
    sed -i '1s/^\xEF\xBB\xBF//' List.txt
    ```
 
-7. **Verifying BOM Removal** 
+6. **Verifying BOM Removal** 
 
    ```bash
    hexdump -C List.txt | head
    ```
 
-8. **Passing File Content as Arguments**
+7. **Passing File Content as Arguments**
 
    ```bash
    chmod 777 Bitfi
@@ -99,7 +99,7 @@ This README describes the various steps and commands for preprocessing the data,
    xargs ./Bitfi -t 3 < List.txt
    ```
 
-9. **Monitoring**
+8. **Monitoring**
 
    ```bash
    tmux
@@ -109,7 +109,7 @@ This README describes the various steps and commands for preprocessing the data,
    exit
    ```
 
-10. **Miscellaneous**
+9. **Miscellaneous**
 
    ```bash
    sudo -s
