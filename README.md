@@ -9,10 +9,10 @@ This README describes the various steps and commands for preprocessing the data,
 📁 [Windows Subsystem for Linux (WSL)](https://ubuntu.com/desktop/wsl)
 
 
-📀 [Ubuntu Server)](https://ubuntu.com/download/server)
+📀 [Ubuntu Server](https://ubuntu.com/download/server)
 
 
-💻 [tmux Documentation)](https://github.com/tmux/tmux/wiki/Getting-Started)
+💻 [tmux Documentation](https://github.com/tmux/tmux/wiki/Getting-Started)
 
 
 
