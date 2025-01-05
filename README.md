@@ -105,7 +105,7 @@ This README describes the various steps and commands for preprocessing the data,
    tmux
    C-b c
    C-b 1
-   top (Toggle L: Process name, Toggle d: delay)
+   top (Toggle L: Process name, Toggle d: Delay)
    exit
    ```
 
