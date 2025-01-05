@@ -94,6 +94,14 @@ This README describes the various steps and commands for preprocessing the data,
 9. **Miscellaneous**
 
    ```bash
+   tmux
+   C-b c
+   C-b 1
+   top (Toggle L: Process name)
+   exit
+   ```
+
+   ```bash
    command
    command &
    ```
@@ -114,12 +122,4 @@ This README describes the various steps and commands for preprocessing the data,
 
    ```bash
    Ctrl + C
-   ```
-
-   ```bash
-   tmux
-   C-b c
-   C-b 1
-   top (Toggle L: Process name)
-   exit
    ```
