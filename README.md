@@ -41,7 +41,7 @@ This README describes the various steps and commands for preprocessing the data,
    ```
 
    ```bash
-   git clone https://github.com/../Bitfi.git
+   git clone https://github.com/n-azimi/Bitfi.git
    ```
 
    ```bash
