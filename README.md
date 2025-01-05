@@ -25,7 +25,7 @@ This README describes the various steps and commands for preprocessing the data,
 
 2. Use LibreOffice Calc to process the data and save the result as an HTML file  
 
-3. Convert newlines to spaces (using an online tool)
+3. Convert newlines to spaces ([Onlinetexttools](https://onlinetexttools.com/convert-newlines-to-spaces))
 
 4. Save the data as List.txt 
 
