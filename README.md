@@ -116,6 +116,10 @@ This README describes the various steps and commands for preprocessing the data,
    ```
 
    ```bash
+   ls -lh
+   ```
+
+   ```bash
    command
    command &
    ```
