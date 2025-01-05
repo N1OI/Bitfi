@@ -99,6 +99,8 @@ This README describes the various steps and commands for preprocessing the data,
    xargs ./Bitfi -t 3 < List.txt
    ```
 
+9. **Monitoring**
+
    ```bash
    tmux
    C-b c
@@ -107,7 +109,7 @@ This README describes the various steps and commands for preprocessing the data,
    exit
    ```
 
-9. **Miscellaneous**
+10. **Miscellaneous**
 
    ```bash
    sudo -s
