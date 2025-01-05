@@ -81,7 +81,7 @@ This README describes the various steps and commands for preprocessing the data,
    hexdump -C List.txt | head
    ```
 
-7. **Passing File Content as Arguments and running the program**
+7. **Passing File Content as Arguments and Running The Program**
 
    ```bash
    chmod 777 Bitfi
