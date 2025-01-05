@@ -57,7 +57,7 @@ This README describes the various steps and commands for preprocessing the data,
    make
    ```
 
-3. **Concatenating the File to display its contents)**  
+3. **Display the file contents**  
 
    ```bash
    cat List.txt | head -c 100
@@ -81,7 +81,7 @@ This README describes the various steps and commands for preprocessing the data,
    hexdump -C List.txt | head
    ```
 
-7. **Passing File Content as Arguments**
+7. **Passing File Content as Arguments and Run the program**
 
    ```bash
    chmod 777 Bitfi
