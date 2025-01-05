@@ -110,6 +110,10 @@ This README describes the various steps and commands for preprocessing the data,
 9. **Miscellaneous**
 
    ```bash
+   sudo -s
+   ```
+
+   ```bash
    command
    command &
    ```
