@@ -99,8 +99,6 @@ This README describes the various steps and commands for preprocessing the data,
    xargs ./Bitfi -t 3 < List.txt
    ```
 
-9. **Miscellaneous**
-
    ```bash
    tmux
    C-b c
@@ -108,6 +106,8 @@ This README describes the various steps and commands for preprocessing the data,
    top (Toggle L: Process name, Toggle d: Delay)
    exit
    ```
+
+9. **Miscellaneous**
 
    ```bash
    command
