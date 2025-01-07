@@ -31,13 +31,33 @@ This README describes the various steps and commands for preprocessing the data,
 
 
 
-## ⚙️ Installation
+## 🖥️ Usage - First Method
+
+
+1. Clone the program and navigate to the directory
+   ```bash
+   git clone https://github.com/n-azimi/Bitfi.git && cd Bitfi
+   ```
+
+2. Make sure the script is executable:
+   ```bash
+   chmod +x script.sh
+   ```
+
+3. Run the script:
+   ```bash
+   ./script.sh
+   ```
+
+
+
+## 🖥️ Usage - Second Method
 
 
 0. **Prerequisites**
 
    ```bash
-   sudo apt-get install build-essential automake autoconf libtool libgmp3-dev p7zip-full
+   sudo apt-get install build-essential automake autoconf libtool libgmp3-dev p7zip-full tmux git
    ```
 
    ```bash
