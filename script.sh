@@ -74,5 +74,3 @@ sleep 0.2
 
 tmux attach-session -t "Session"
 
-
-
