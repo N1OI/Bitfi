@@ -31,7 +31,27 @@ This README describes the various steps and commands for preprocessing the data,
 
 
 
-## ⚙️ Installation
+## 🖥️ Usage - Method 1
+
+
+1. Clone the program and navigate to the directory
+   ```bash
+   git clone https://github.com/n-azimi/Bitfi.git && cd Bitfi
+   ```
+
+2. Make sure the script is executable:
+   ```bash
+   chmod +x script.sh
+   ```
+
+3. Run the script:
+   ```bash
+   ./script.sh
+   ```
+
+
+
+## 🖥️ Usage - Method 2
 
 
 0. **Prerequisites**
