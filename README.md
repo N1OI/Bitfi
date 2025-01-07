@@ -31,7 +31,7 @@ This README describes the various steps and commands for preprocessing the data,
 
 
 
-## 🖥️ Usage - Method 1
+## 🖥️ Usage - First Method
 
 
 1. Clone the program and navigate to the directory
@@ -51,7 +51,7 @@ This README describes the various steps and commands for preprocessing the data,
 
 
 
-## 🖥️ Usage - Method 2
+## 🖥️ Usage - Second Method
 
 
 0. **Prerequisites**
