@@ -57,7 +57,7 @@ This README describes the various steps and commands for preprocessing the data,
 0. **Prerequisites**
 
    ```bash
-   sudo apt-get install build-essential automake autoconf libtool libgmp3-dev p7zip-full
+   sudo apt-get install build-essential automake autoconf libtool libgmp3-dev p7zip-full tmux git
    ```
 
    ```bash
